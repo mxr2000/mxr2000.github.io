@@ -33,6 +33,8 @@
 .repo-link {
     align-self: center;
     display: flex;
+    text-decoration: none;
+    color: gray;
 }
 
 .project-panel {
