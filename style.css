@@ -83,3 +83,36 @@
     width: 20%;
 }
 
+.menu-bar {
+    justify-content: center;
+    display: flex;
+}
+
+.menu-item {
+    margin: 20px;
+    font-size: 30px;
+}
+
+.experience-container {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.experience-cell {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.experience-line {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.experience-icon {
+    height: 20px;
+    margin-right: 10px;
+}
+
